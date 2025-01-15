@@ -8,7 +8,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int bug2()
 {
     int value = 100;
     cout << value;
