@@ -10,7 +10,7 @@
 #include <string>
 using namespace std;
 
-int main()
+int bug3()
 {
     string month = "February";    // month is initialized to "February"
     int year;                     // year is not initialized
