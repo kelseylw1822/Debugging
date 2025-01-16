@@ -10,7 +10,7 @@
 #include <string>       // Header file needed to use string objects
 using namespace std;
 
-int main()
+int bug4()
 {
     string name;
     string city;
