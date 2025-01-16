@@ -9,7 +9,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int bug5()
 {
     double num1, num2, num3, avg;
 
