@@ -45,7 +45,7 @@ class Carpet
         }
 
         double getTotalPrice()
-        {  return (size.getArea() * pricePerSqYd); }
+        {  return (size.getArea() / 9.0 * pricePerSqYd); }
 };
 
 // ************** Client Program *****************
