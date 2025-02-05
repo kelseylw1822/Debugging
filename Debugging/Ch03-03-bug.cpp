@@ -8,7 +8,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int bug6()
 {
     int number = 65;
 
