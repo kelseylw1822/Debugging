@@ -43,7 +43,7 @@ double Circle::calcArea()
 /******************************************************************
  *                            main                                *
  ******************************************************************/
-int main()
+int bug16()
 {
     Circle circle1,          // Define 2 Circle objects
            circle2;
