@@ -10,7 +10,7 @@
 #include "Circle.h"         // Circle class declaration file
 using namespace std;
 
-int main()
+int bug20()
 {
     // Define a vector of  Circle objects. Use an initialization list
     // to call the 1-argument constructor for the objects.
