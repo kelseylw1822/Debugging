@@ -4,6 +4,7 @@
 // Time: Less than 5 minutes.
 
 #include <iostream>
+#include <vector>
 using namespace std;
 
 // Function prototype
