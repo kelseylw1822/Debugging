@@ -9,7 +9,7 @@
 #include <string>
 using namespace std;
 
-int main()
+int bug18()
 {
     const int NUM_MONTHS = 12;
     int choice;
